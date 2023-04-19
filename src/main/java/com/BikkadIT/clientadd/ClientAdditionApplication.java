@@ -16,4 +16,9 @@ public class ClientAdditionApplication {
 		System.out.println("AT client side:"+sum);
 	}
 
+	public String newwork()
+	{
+		return "New work assigned";
+		
+	}
 }
